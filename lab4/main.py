@@ -1,6 +1,6 @@
-from students_marks.calculations import calculate_result
-from students_marks.display import display_student_result
-from students_marks.validation import input_name_and_marks
+from lab4.calculations import calculate_result
+from lab4.display import display_student_result
+from lab4.validation import input_name_and_marks
 
 
 if "__main__" == __name__:

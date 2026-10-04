@@ -1,6 +1,6 @@
 from array import ArrayType
 
-from students_marks.validation import validate_grade
+from lab4.validation import validate_grade
 
 
 def calculate_average(marks: ArrayType[int]):
